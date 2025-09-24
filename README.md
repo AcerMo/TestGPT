@@ -1,5 +1,8 @@
 # TestGPT
 Try For Codex
 
-<video src="https://www.bilibili.com/video/av83062822/"></video>
-
+## 视频介绍
+<video width="480" controls>
+  <source src="[./media/intro.mp4](https://www.bilibili.com/video/av83062822/)" type="video/mp4">
+  您的浏览器不支持 video 标签。
+</video>
